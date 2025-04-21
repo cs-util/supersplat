@@ -1,5 +1,8 @@
 # SuperSplat - 3D Gaussian Splat Editor
 
+ 
+> ### \ <br> A GitHub Pages hosted version of the editor can be run at <br> https://cs-util.github.io/supersplat/ <br> /
+
 | [SuperSplat Editor](https://superspl.at/editor) | [User Guide](https://github.com/playcanvas/supersplat/wiki) | [Forum](https://forum.playcanvas.com/) | [Discord](https://discord.gg/RSaMRzg) |
 
 SuperSplat is a free and open source tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats. It is built on web technologies and runs in the browser, so there's nothing to download or install.
