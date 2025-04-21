@@ -64,7 +64,7 @@ const tsCompilerOptions = {
 const application = {
     input: 'src/index.ts',
     output: {
-        dir: 'dist',
+        dir: 'docs',
         format: 'esm',
         sourcemap: true
     },
@@ -123,7 +123,7 @@ const application = {
 const serviceWorker = {
     input: 'src/sw.ts',
     output: {
-        dir: 'dist',
+        dir: 'docs',
         format: 'esm',
         sourcemap: true
     },
